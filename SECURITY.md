@@ -1,6 +1,4 @@
-<!-- Begin NI SECURITY.md V1.0 -->
-
-# Security
+This is to test fork and pull request
 
 NI views the security of our software products as an important part of our commitment to our users.  This includes source code repositories managed through the [NI](https://github.com/ni) GitHub organization.
 
